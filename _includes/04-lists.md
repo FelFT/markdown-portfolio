@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+I like to do a lot things as:
+- Programming 💻
+- Playing videogames 🎮
+- Writting ✍️
